@@ -9,7 +9,8 @@ Collect telegram channel proxy with simple php class
 #### proxy in :
 - message text
 - inline button 
-- url hrefed
+- url hrefed 
+- and any proxy in channel
 
 ## how to use :
 add `telegramProxyCollector.php` to your code like `example.php` and enjoy it !

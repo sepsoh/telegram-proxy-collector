@@ -15,11 +15,6 @@ class telegramProxyCollector{
 	    
 	    $this->data = array_unique(array_reverse($this->data[0]));
 
-	
-		
-
-
-
 	}
 
 

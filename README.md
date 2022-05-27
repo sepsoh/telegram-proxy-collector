@@ -10,7 +10,7 @@ Collect telegram channel proxy with simple php class
 - message text
 - inline button 
 - url hrefed 
-- and any messagw type in channel
+- and any message type in channel
 
 ## how to use :
 add `telegramProxyCollector.php` to your code like `example.php` and enjoy it !

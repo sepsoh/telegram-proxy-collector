@@ -1,5 +1,5 @@
 <?php
-class telegramProxyCollector{
+class TelegramProxyCollector{
     private $data;
 	private $pointer = 0;
     public function __construct($channelUsername){

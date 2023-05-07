@@ -4,7 +4,6 @@ class TelegramProxyCollector{
 	private $pointer = 0;
     public function __construct($channelUsername){
 	
-	
 	    $channelUsername = str_replace('@','',$channelUsername);
 	
 	    $this->data = file_get_contents('https://t.me/s/'.$channelUsername);
@@ -38,7 +37,5 @@ class TelegramProxyCollector{
 	
 		return count($this->data);
 	}
-
-
 
 }

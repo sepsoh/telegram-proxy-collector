@@ -1,6 +1,6 @@
 <?php
 
-require('telegramProxyCollector.php');
+require('TelegramProxyCollector.php');
 
 $tpc = new TelegramProxyCollector('@Username'); //username of channel
 
